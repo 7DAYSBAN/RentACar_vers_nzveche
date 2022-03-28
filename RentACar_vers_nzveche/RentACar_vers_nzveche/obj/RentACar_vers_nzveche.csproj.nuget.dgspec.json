@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pavel\\source\\repos\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche.csproj": {}
+    "C:\\Users\\Pavel\\Documents\\GitHub\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pavel\\source\\repos\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche.csproj": {
+    "C:\\Users\\Pavel\\Documents\\GitHub\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pavel\\source\\repos\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche.csproj",
+        "projectUniqueName": "C:\\Users\\Pavel\\Documents\\GitHub\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche.csproj",
         "projectName": "RentACar_vers_nzveche",
-        "projectPath": "C:\\Users\\Pavel\\source\\repos\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche.csproj",
+        "projectPath": "C:\\Users\\Pavel\\Documents\\GitHub\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche.csproj",
         "packagesPath": "C:\\Users\\Pavel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pavel\\source\\repos\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\obj\\",
+        "outputPath": "C:\\Users\\Pavel\\Documents\\GitHub\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\RentACar_vers_nzveche\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
